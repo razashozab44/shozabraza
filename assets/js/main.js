@@ -5,7 +5,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+import { Analytics } from "@vercel/analytics/react"
 (function() {
   "use strict";
 
